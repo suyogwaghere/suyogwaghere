@@ -7,13 +7,18 @@
 <h1 align="center">Hi 👋, I'm Suyog</h1>
 <h3 align="center">A passionate Web full Stack developer from India</h3>
 
+
+
+<img align="right" alt="Coding" width="300" hight="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcvyvAMfJdHUEg3J11DKD5UAV_6FumrNzuT80RSDMdMIjdutTNTC0LLR0ZWaphUWt6SuQ&usqp=CAU">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyogwaghere&label=Profile%20views&color=0e75b6&style=flat" alt="suyogwaghere" /> </p>
 
 <p align="left"> <a href="https://twitter.com/thesuyog_in" target="blank"><img src="https://img.shields.io/twitter/follow/thesuyog_in?logo=twitter&style=for-the-badge" alt="thesuyog_in" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, React**
+- 🌱 I’m currently learning **Node.js, React, Python**
 
-- 💬 Ask me about **Boostrap, jQuery and MongoDb**
+- 💬 Ask me about **Boostrap, jQuery, Express and MongoDb**
 
 - 📫 How to reach me **suyogwaghere99@gmail.com**
 
