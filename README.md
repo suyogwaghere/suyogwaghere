@@ -1,5 +1,4 @@
-
-<a href="https://github.com/suyogwaghere" target="blank">
+<a href="https://suyogwaghere.github.io/index.html" target="blank">
 <img align="centre" alt="Coding" src="https://export-download.canva.com/wpApQ/DAFJsLwpApQ/32/0/0002-36768542658.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20220930%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220930T060547Z&X-Amz-Expires=51107&X-Amz-Signature=b96ab481ec6cb217622a736aef7e9a6daa80a1a21b00e2d461861997e4867641&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Suyog%2520Waghere.png&response-expires=Fri%2C%2030%20Sep%202022%2020%3A17%3A34%20GMT"></a>
 <!-- [![MasterHead]()](https://suyogwaghere.github.io/) -->
 <br>
