@@ -1,4 +1,5 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQF8tkdrQiM8ug/profile-displaybackgroundimage-shrink_200_800/0/1660951563646?e=1669852800&v=beta&t=ai5SHquMsuPFODg5vXhrEvaNxzvmx4WYk535jv3gmK8)]
+<img align="center" alt="Coding" src="https://media-exp1.licdn.com/dms/image/C4D16AQF8tkdrQiM8ug/profile-displaybackgroundimage-shrink_200_800/0/1660951563646?e=1669852800&v=beta&t=ai5SHquMsuPFODg5vXhrEvaNxzvmx4WYk535jv3gmK8">
+<!-- [![MasterHead]()](https://suyogwaghere.github.io/) -->
 <h1 align="center">Hi 👋, I'm Suyog</h1>
 <h3 align="center">A passionate Web full Stack developer from India</h3>
 
