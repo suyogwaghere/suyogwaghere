@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyog</h1>
 <h3 align="center">A passionate Web full Stack developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/@thesuyog_in" target="blank"><img src="https://img.shields.io/twitter/follow/@thesuyog_in?logo=twitter&style=for-the-badge" alt="thesuyog_in" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thesuyog_in" target="blank"><img src="https://img.shields.io/twitter/follow/@thesuyog_in?logo=twitter&style=for-the-badge" alt="thesuyog_in" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js, React**
 
