@@ -7,8 +7,8 @@
 <h3 align="center">A passionate full Stack Web-developer from India</h3>
 
 
-
-<img align="right" alt="Coding" width="300" hight="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcvyvAMfJdHUEg3J11DKD5UAV_6FumrNzuT80RSDMdMIjdutTNTC0LLR0ZWaphUWt6SuQ&usqp=CAU">
+<!--
+<img align="right" alt="Coding" width="300" hight="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcvyvAMfJdHUEg3J11DKD5UAV_6FumrNzuT80RSDMdMIjdutTNTC0LLR0ZWaphUWt6SuQ&usqp=CAU"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyogwaghere&label=Profile%20views&color=0e75b6&style=flat" alt="suyogwaghere" /> </p>
