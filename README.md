@@ -3,9 +3,7 @@
 <!-- [![MasterHead]()](https://suyogwaghere.github.io/) -->
 <br>
 
-<h1 align="center">Hi 👋, I'm Suyog</h1>
-<h3 align="center">A passionate full Stack Web-developer from India</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=4000&pause=800&center=true&multiline=true&width=2000&height=150&lines=Hi+%F0%9F%91%8B%2C+I'm+Suyog;A+passionate+full+Stack+Web-developer+from+India)](https://git.io/typing-svg)
 
 <!--
 <img align="right" alt="Coding" width="300" hight="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcvyvAMfJdHUEg3J11DKD5UAV_6FumrNzuT80RSDMdMIjdutTNTC0LLR0ZWaphUWt6SuQ&usqp=CAU"> -->
