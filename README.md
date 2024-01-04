@@ -16,28 +16,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=4000&pause=800&center=true&multiline=true&width=2000&height=150&lines=A+passionate+full+Stack+Developer+from+India" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  🌱 I’m currently learning Node.js, React, LoopBack 4
+<p  >
+  🌱 I’m currently learning LoopBack 4, PM2 and Nginx. 
 </p>
 
-<p align="center">
+<p  >
   💬 Ask me about React, Boostrap, Tailwind, ExpressJS, and MongoDB
 </p>
 
-<p align="center">
-  📫 How to reach me: suyogwaghere99@gmail.com
-</p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/thesuyog_in" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-	
-  <a href="https://linkedin.com/in/suyogwaghere" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+
+
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
@@ -294,5 +283,20 @@
   </a>
 
 </details>
+
+<p  align="center">
+  📫 How to reach me: <a href="mailto:suyogwaghere99@gmail.com">suyogwaghere99@gmail.com</a>
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/thesuyog_in" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+	
+  <a href="https://linkedin.com/in/suyogwaghere" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
 
