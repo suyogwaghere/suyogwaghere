@@ -30,6 +30,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Exporting Firebase Database: CLI Magic Unleashed!](https://suyogwaghere.medium.com/exporting-firebase-database-cli-magic-unleashed-8baee0b2d1fc?source=rss-9f53e9fb4ffd------2)
 - [Mastering React: A Comprehensive Guide for Developers](https://suyogwaghere.medium.com/mastering-react-a-comprehensive-guide-for-developers-b742c346b990?source=rss-9f53e9fb4ffd------2)
 - [Introduction to GitHub: Empowering Collaboration and Version Control](https://suyogwaghere.medium.com/an-introduction-to-github-empowering-collaboration-and-version-control-7cff6bf6aa34?source=rss-9f53e9fb4ffd------2)
 <!-- BLOG-POST-LIST:END -->
